@@ -1,0 +1,166 @@
+import { Dimensions, StyleSheet, Platform } from 'react-native';
+
+export default StyleSheet.create({
+  container: {
+    flex: 1,
+  },
+  sceneView: {
+    flex: 1,
+    alignSelf: 'stretch',
+  },
+  controls: {
+    flex: 1,
+    width: 200,
+    elevation: 4,
+    position: 'absolute',
+    paddingLeft: 10,
+    paddingRight: 10,
+    paddingTop: 8,
+    paddingBottom: 8,
+    backgroundColor: '#292c3688',
+  },
+  widthControls: {
+    flex: 1,
+    width: 280,
+    elevation: 4,
+    position: 'absolute',
+    paddingLeft: 10,
+    paddingRight: 10,
+    paddingTop: 8,
+    paddingBottom: 8,
+    backgroundColor: '#292c3688',
+  },
+  control: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 8,
+  },
+  label: {
+    color: '#fff',
+  },
+  slider: {
+    width: 100,
+    position: 'absolute',
+    right: 0,
+  },
+  switch: {
+    position: 'absolute',
+    right: 0,
+  },
+  buttons: {
+    height: Dimensions.get('window').height,
+    position: 'absolute',
+    flexDirection: 'column',
+    justifyContent: 'flex-start',
+    flexWrap: 'wrap',
+  },
+  button: {
+    padding: 8,
+    paddingLeft: 15,
+    paddingRight: 15,
+    margin: 8,
+    alignItems: 'center',
+    borderRadius: 30,
+    backgroundColor: 'rgba(245,83,61,0.8)',
+  },
+  text: {
+    fontSize: 16,
+    color: '#fff',
+  },
+  description: {
+    color: '#888',
+    margin: 4,
+    paddingLeft: 10,
+    fontSize: 14,
+  },
+  list: {
+    flex: 1,
+    height: '95%',
+    position: 'absolute',
+  },
+  listItem: {
+    padding: 8,
+    paddingLeft: 15,
+    paddingRight: 15,
+    margin: 8,
+    borderRadius: 30,
+    backgroundColor: 'rgba(245,83,61,0.8)',
+    alignItems: 'center',
+  },
+  centering: {
+    alignSelf: 'center',
+    alignItems: 'center',
+    justifyContent: 'center',
+    position: 'absolute',
+    padding: 8,
+  },
+  logs: {
+    flex: 1,
+    elevation: 8,
+    backgroundColor: '#292c36',
+  },
+  logItem: {
+    paddingLeft: 15,
+    paddingRight: 15,
+    paddingTop: 10,
+    paddingBottom: 10,
+  },
+  logItemHeader: {
+    flexDirection: 'row',
+  },
+  logTime: {
+    color: '#757575',
+    fontSize: 12,
+  },
+  logLabel: {
+    marginLeft: 8,
+    color: '#f5533d',
+    fontSize: 12,
+  },
+  logData: {
+    color: '#eee',
+    fontSize: 12,
+  },
+  form: {
+    padding: 15,
+    backgroundColor: '#292c36',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  input: {
+    flex: 1,
+    color: '#fff',
+    fontSize: 16,
+    margin: 8,
+    borderBottomColor: 'black',
+    borderBottomWidth: 1,
+  },
+  textView: {
+    flexDirection: 'column',
+    justifyContent: 'center',
+    backgroundColor: '#000',
+  },
+  itemSingleView: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    backgroundColor: '#292c36',
+  },
+  itemKey: {
+    fontSize: 16,
+    color: '#rgba(245,83,61,0.8)',
+    flexDirection: 'column',
+    textAlign: 'left',
+    flexWrap: 'wrap',
+    paddingTop: 5,
+  },
+  // item的可见字体样式
+  itemValue: {
+    fontSize: 16,
+    color: '#fff',
+    flexDirection: 'column',
+    textAlign: 'left',
+    flexWrap: 'wrap',
+    paddingLeft: 5,
+    paddingTop: 5,
+  },
+});
