@@ -19,7 +19,7 @@ import {
   GraphicText,
   GraphicCircle,
   GraphicPolygon,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class MapGraphicInterActive extends Component {
   static navigationOptions = { title: '交互绘制几何图形' };

@@ -15,7 +15,7 @@ import {
   ServerLayer3D,
   SRSType,
   SunLightingMode,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import {
   OP_FILE_PATH1,
   PATH_FILE_PATH0

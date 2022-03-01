@@ -10,7 +10,7 @@ import {
 } from 'react-native';
 import { RadioGroup, RadioButton } from 'react-native-flexi-radio-button';
 import styles from '../styles';
-import { MGMapView, ImageLayer, MapServer } from '@mapgis/uniform-core-react-native';
+import { MGMapView, ImageLayer, MapServer } from '@mapgis/mobile-react-native';
 import { MAPX_FILE_PATH, TILE_FILE_PATH } from '../utils';
 
 /**

@@ -15,7 +15,7 @@ import {
   Viewpoint,
   Dot,
   ObjectManager
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import { TERRAIN_FILE_PATH } from '../utils';
 
 export default class SceneViewListen extends Component {

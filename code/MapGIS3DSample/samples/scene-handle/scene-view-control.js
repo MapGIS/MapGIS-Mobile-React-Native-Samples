@@ -8,7 +8,7 @@ import {
   MGSceneView,
   Viewpoint,
   ObjectManager
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import Slider from '@react-native-community/slider';
 
 export default class SceneViewControl extends Component {

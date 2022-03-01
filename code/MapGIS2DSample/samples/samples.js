@@ -10,7 +10,7 @@ import {
 } from 'react-native';
 import { withNavigation } from 'react-navigation';
 import { requestMultiplePermission, SYSTEM_LIB_PATH1 } from './utils';
-import { Environment } from '@mapgis/uniform-core-react-native';
+import { Environment } from '@mapgis/mobile-react-native';
 import MapDisplay from './map-display';
 import MapControl from './map-control';
 import MapDocManager from './map-doc-manager';

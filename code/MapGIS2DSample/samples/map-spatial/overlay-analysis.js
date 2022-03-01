@@ -19,7 +19,7 @@ import {
   PointF,
   GraphicsOverlay,
   GeometryOperator,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class MapOverlayAnalysis extends Component {
   static navigationOptions = { title: '叠加分析' };

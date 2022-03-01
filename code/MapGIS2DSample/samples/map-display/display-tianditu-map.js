@@ -7,7 +7,7 @@ import {
   MapServer,
   ImageLayer,
   Rect,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import { TIANDITU_VECTOR_PATH, TIANDITU_ANNO_PATH } from '../utils';
 
 /**

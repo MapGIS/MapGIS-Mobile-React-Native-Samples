@@ -15,7 +15,7 @@ import {
   GraphicText,
   Graphic,
   GeoVarLine,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class MapCalculateLength extends Component {
   static navigationOptions = { title: '长度量算' };

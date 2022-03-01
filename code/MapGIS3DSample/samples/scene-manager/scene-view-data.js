@@ -21,7 +21,7 @@ import {
   TerrainLayer3D,
   LayerState,
   ObjectManager
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import {
   MCJ_FILE_JINGGUAN_PATH,
   OP_FILE_PATH1,

@@ -31,7 +31,7 @@ import {
   SunLightingMode,
   TerrainLayer3D,
   Viewpoint,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import {
   IMG_FILE_PATH2,
   IMG_FILE_PATH_GUOQI,

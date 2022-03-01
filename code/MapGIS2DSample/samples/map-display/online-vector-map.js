@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { View, ToastAndroid } from 'react-native';
 import styles from '../styles';
 import { SERVER_DOC_URL_PATH } from '../utils';
-import { Rect, MGMapView, ImageLayer, MapServer, Map } from '@mapgis/uniform-core-react-native';
+import { Rect, MGMapView, ImageLayer, MapServer, Map } from '@mapgis/mobile-react-native';
 
 export default class OfflineVectorMap extends Component {
   static navigationOptions = { title: '在线矢量地图' };

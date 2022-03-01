@@ -5,7 +5,7 @@ import {
   Rect,
   SketchDataType,
   SketchEditor,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import { MAPX_FILE_PATH } from '../utils';
 
 import {

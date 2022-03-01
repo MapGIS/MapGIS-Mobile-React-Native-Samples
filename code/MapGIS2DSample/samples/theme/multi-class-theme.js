@@ -9,7 +9,7 @@
 //   ClassItemValue,
 //   RegInfo,
 //   GeomType,
-// } from '@mapgis/uniform-core-react-native';
+// } from '@mapgis/mobile-react-native';
 // import {
 //   WUHANAREA_FILE_PATH,
 //   SYSTEM_LIB_PATH1,

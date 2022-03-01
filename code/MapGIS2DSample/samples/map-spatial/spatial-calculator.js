@@ -20,7 +20,7 @@ import {
   GeoVarLine,
   Angle,
   GeometryOperator,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class MapSpatialCalculator extends Component {
   static navigationOptions = { title: '空间计算' };

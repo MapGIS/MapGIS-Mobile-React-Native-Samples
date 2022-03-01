@@ -8,7 +8,7 @@ import {
   Dot,
   Image,
   GraphicImage,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class MapGraphicImage extends Component {
   static navigationOptions = { title: '坐标添加图像' };

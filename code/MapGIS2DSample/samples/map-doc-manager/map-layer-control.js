@@ -8,7 +8,7 @@ import {
   TouchableOpacity,
 } from 'react-native';
 import styles from '../styles';
-import { MGMapView, LayerState } from '@mapgis/uniform-core-react-native';
+import { MGMapView, LayerState } from '@mapgis/mobile-react-native';
 import { MAPX_FILE_PATH } from '../utils';
 
 /**

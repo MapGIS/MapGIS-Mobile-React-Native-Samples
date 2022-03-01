@@ -16,7 +16,7 @@ import {
   FeatureQuery,
   GraphicPolygon,
   SpaQueryMode,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 /**
  * @content 矩形查询

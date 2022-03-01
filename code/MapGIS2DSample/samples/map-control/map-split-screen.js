@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { View, DeviceEventEmitter } from 'react-native';
 import styles from '../styles';
 import { TILE_MAPX_PATH, TILE_FILE_PATH } from '../utils';
-import { Rect, MGMapView, Document, ImageLayer, MapServer, Map } from '@mapgis/uniform-core-react-native';
+import { Rect, MGMapView, Document, ImageLayer, MapServer, Map } from '@mapgis/mobile-react-native';
 
 export default class MapSplitScreen extends Component {
   static navigationOptions = { title: '地图分屏功能' };

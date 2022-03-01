@@ -24,7 +24,7 @@ import {
   TerrainAnalysis,
   TerrainLayer3D,
   Viewpoint,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import {
   IMG_FILE_PATH_ENDPOINT,
   IMG_FILE_PATH_STARTPOINT,

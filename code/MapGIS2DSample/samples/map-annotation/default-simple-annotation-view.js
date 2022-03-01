@@ -6,7 +6,7 @@ import {
   PointF,
   Annotation,
   Image,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import {
   MAPX_FILE_PATH,
   CONSTANT_ANN_FILE_PATH1,

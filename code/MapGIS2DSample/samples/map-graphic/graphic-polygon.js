@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { View } from 'react-native';
 import styles from '../styles';
 import { MAPX_FILE_PATH } from '../utils';
-import { MGMapView, Dot, GraphicPolygon } from '@mapgis/uniform-core-react-native';
+import { MGMapView, Dot, GraphicPolygon } from '@mapgis/mobile-react-native';
 
 /**
  * @content 坐标添加多边形

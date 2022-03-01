@@ -6,7 +6,7 @@ import {
   Annotation,
   Image,
   Dot,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import { MAPX_FILE_PATH, ANN_FILE_PATH } from '../utils';
 
 import { View, DeviceEventEmitter, ToastAndroid } from 'react-native';

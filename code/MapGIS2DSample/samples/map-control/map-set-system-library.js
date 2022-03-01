@@ -7,7 +7,7 @@ import {
   ToastAndroid,
 } from 'react-native';
 import styles from '../styles';
-import { MGMapView, Rect, Environment } from '@mapgis/uniform-core-react-native';
+import { MGMapView, Rect, Environment } from '@mapgis/mobile-react-native';
 import { MAPX_FILE_PATH, SYSTEM_LIB_PATH1, SYSTEM_LIB_PATH2 } from '../utils';
 
 /**

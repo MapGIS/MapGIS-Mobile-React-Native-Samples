@@ -10,7 +10,7 @@ import {
   SceneMode,
   AtmosphereEffectMode,
   ObjectManager
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import { Switch } from '../common';
 
 export default class SceneViewMode extends Component {

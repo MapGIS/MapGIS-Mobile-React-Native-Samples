@@ -24,7 +24,7 @@ import {
   GeometryType,
   GeoPoint,
   GeoMultiPoint,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 /**
  * @content 属性查询

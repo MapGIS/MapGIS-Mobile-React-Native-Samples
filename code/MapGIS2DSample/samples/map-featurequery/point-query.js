@@ -15,7 +15,7 @@ import {
   FeatureQuery,
   QueryDef,
   GraphicPoint,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 /**
  * @content 点击查询

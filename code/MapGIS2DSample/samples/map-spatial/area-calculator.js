@@ -15,7 +15,7 @@ import {
   Graphic,
   GraphicPolygon,
   GeoPolygon,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class MapCalculateArea extends Component {
   static navigationOptions = { title: '面积量算' };

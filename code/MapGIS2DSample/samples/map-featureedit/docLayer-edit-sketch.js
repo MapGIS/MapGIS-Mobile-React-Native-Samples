@@ -17,7 +17,7 @@ import {
   QueryDef,
   SpaQueryMode,
   PointF,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import { FEATURE_EDIT_MAPX_PATH } from '../utils';
 
 import {

@@ -25,7 +25,7 @@ import {
   QueryDef,
   Feature3D,
   ObjectManager,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class SceneViewQuery extends Component {
   static navigationOptions = { title: '图层查询功能' };

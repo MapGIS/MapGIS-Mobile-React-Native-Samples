@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View, ToastAndroid } from 'react-native';
 import styles from '../styles';
-import { MGMapView, MapServer, ImageLayer } from '@mapgis/uniform-core-react-native';
+import { MGMapView, MapServer, ImageLayer } from '@mapgis/mobile-react-native';
 import { TILE_MAPX_PATH } from '../utils';
 
 /**

@@ -32,7 +32,7 @@ import {
   QueryDef,
   IntList,
   Map,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class MapIGServerEdit extends Component {
   static navigationOptions = { title: '在线要素编辑(固定信息)' };

@@ -20,7 +20,7 @@ import {
   QueryDef,
   GeometryOperator,
   ClipType,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class MapClipAnalysis extends Component {
   static navigationOptions = { title: '裁剪分析' };

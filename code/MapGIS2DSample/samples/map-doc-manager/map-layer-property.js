@@ -10,7 +10,7 @@ import {
   Alert,
 } from 'react-native';
 import styles from '../styles';
-import { MGMapView, XClsType, LayerState } from '@mapgis/uniform-core-react-native';
+import { MGMapView, XClsType, LayerState } from '@mapgis/mobile-react-native';
 import { MAPX_FILE_PATH } from '../utils';
 
 /**

@@ -28,7 +28,7 @@ import {
   Viewpoint,
   BombCustomFeatureAttributeCallBack,
   ObjectManager,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import { MCJ_DICENGMODEL_FILE_PATH } from '../utils';
 import RadioView from '../common/radio';
 

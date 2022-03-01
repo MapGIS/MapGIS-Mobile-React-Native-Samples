@@ -20,7 +20,7 @@ import {
   GeoMultiPoint,
   Map,
   Dot,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 /**
  * @content IGServer服务地图查询

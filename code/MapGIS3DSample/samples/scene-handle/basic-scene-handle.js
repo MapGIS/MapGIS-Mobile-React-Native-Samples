@@ -19,7 +19,7 @@ import {
   Scene,
   SunLightingMode,
   ObjectManager
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class BasicSceneHandle extends Component {
   static navigationOptions = { title: '场景基本操作' };

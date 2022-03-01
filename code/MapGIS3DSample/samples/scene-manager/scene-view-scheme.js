@@ -22,7 +22,7 @@ import {
   Dot3D,
   Viewpoint,
   ObjectManager
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class SceneViewScheme extends Component {
   static navigationOptions = { title: '专题图功能展示' };

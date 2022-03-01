@@ -19,7 +19,7 @@ import {
   GeometryOperator,
   CapStyles,
   PointF,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class MapBufferAnalysis extends Component {
   static navigationOptions = { title: '缓冲分析' };

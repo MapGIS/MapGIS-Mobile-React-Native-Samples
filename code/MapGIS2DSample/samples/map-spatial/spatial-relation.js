@@ -19,7 +19,7 @@ import {
   Graphic,
   GraphicText,
   GeometryOperator,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class MapSpatialRelation extends Component {
   static navigationOptions = { title: '空间关系' };

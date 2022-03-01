@@ -11,7 +11,7 @@ import {
   Dimensions,
 } from 'react-native';
 import styles from '../styles';
-import { MGMapView, Rect } from '@mapgis/uniform-core-react-native';
+import { MGMapView, Rect } from '@mapgis/mobile-react-native';
 import { MAPX_FILE_PATH, SCREEN_PATH } from '../utils';
 
 /**

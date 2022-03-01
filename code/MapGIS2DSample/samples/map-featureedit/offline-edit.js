@@ -30,7 +30,7 @@ import {
   TextAnnInfo,
   IntList,
   QueryDef,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 export default class MapOfflineEdit extends Component {
   static navigationOptions = { title: '离线要素编辑(固定信息)' };

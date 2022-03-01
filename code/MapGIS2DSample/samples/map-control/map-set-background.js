@@ -7,7 +7,7 @@ import {
   ToastAndroid,
 } from 'react-native';
 import styles from '../styles';
-import { MGMapView, Image } from '@mapgis/uniform-core-react-native';
+import { MGMapView, Image } from '@mapgis/mobile-react-native';
 import { MAPX_FILE_PATH, MAP_BG_IMG_FILE_PATH } from '../utils';
 
 /**

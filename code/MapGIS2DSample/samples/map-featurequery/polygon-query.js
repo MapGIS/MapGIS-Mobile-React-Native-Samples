@@ -19,7 +19,7 @@ import {
   QueryDef,
   FeatureQuery,
   GraphicPolygon,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 /**
  * @content 多边形查询

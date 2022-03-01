@@ -26,8 +26,6 @@ DerivedData
 build/
 .idea
 .gradle
-gradlew
-gradlew.bat
 local.properties
 *.iml
 BUCK

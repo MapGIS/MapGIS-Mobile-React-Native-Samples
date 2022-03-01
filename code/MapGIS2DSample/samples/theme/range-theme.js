@@ -21,7 +21,7 @@ import {
   FeatureQuery,
   QueryDef,
   VectorLayer,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import { WUHANAREA_FILE_PATH } from '../utils';
 
 /**

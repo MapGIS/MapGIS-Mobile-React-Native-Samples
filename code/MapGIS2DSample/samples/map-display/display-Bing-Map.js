@@ -7,7 +7,7 @@ import {
   MapServer,
   ImageLayer,
   Rect,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 
 /**
  * @content Bing地图示例

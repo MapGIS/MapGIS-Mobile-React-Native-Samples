@@ -24,7 +24,7 @@ import {
   SRSType,
   VectorLayer3D,
   Viewpoint
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import { OP_FILE_PATH1, SHP_FILE_PATH } from '../utils';
 import Slider from '@react-native-community/slider';
 

@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 import styles from '../styles';
 import { MAPX_FILE_PATH } from '../utils';
-import { MGMapView } from '@mapgis/uniform-core-react-native';
+import { MGMapView } from '@mapgis/mobile-react-native';
 
 export default class MapBasicOperate extends Component {
   static navigationOptions = { title: '地图基本操作' };

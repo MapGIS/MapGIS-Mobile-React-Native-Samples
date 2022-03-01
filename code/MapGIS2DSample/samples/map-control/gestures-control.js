@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { View, Text } from 'react-native';
 import styles from '../styles';
 import { MAPX_FILE_PATH } from '../utils';
-import { MGMapView } from '@mapgis/uniform-core-react-native';
+import { MGMapView } from '@mapgis/mobile-react-native';
 import { Switch } from '../common';
 
 export default class MapGesturesControl extends Component {

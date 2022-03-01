@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View, DeviceEventEmitter } from 'react-native';
 import styles from '../styles';
-import { MGMapView, Dot, MapPosition } from '@mapgis/uniform-core-react-native';
+import { MGMapView, Dot, MapPosition } from '@mapgis/mobile-react-native';
 import { BUIDING_FILE_PATH } from '../utils';
 
 /**

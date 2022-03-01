@@ -6,7 +6,7 @@ import {
   MapServer,
   ImageLayer,
   Rect,
-} from '@mapgis/uniform-core-react-native';
+} from '@mapgis/mobile-react-native';
 import { MAPX_FILE_PATH, IGS_WUHAN_AREA_URL } from '../utils';
 
 /**
